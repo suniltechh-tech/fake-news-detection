@@ -86,3 +86,5 @@ Improve UI and visualization
 
 Deploy on cloud platforms
 
+Note: model.pkl and vectorizer.pkl are generated after running train_model.py
+
